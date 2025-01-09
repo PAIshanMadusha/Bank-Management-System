@@ -20,7 +20,7 @@ This is a Java-based bank management system project with a MySQL database backen
   - Logout: Securely log out from the system.
   - Exit: Close the application.
 
-## Screenshots
+## System Screenshots
 
 1. **User Login**  
    <div align="center">
